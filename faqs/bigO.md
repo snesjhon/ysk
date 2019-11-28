@@ -16,3 +16,7 @@ First we would have to search it by checking `n` elements
 - https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf
 - https://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly
 - https://stackoverflow.com/questions/10369563/difference-between-on-and-ologn-which-is-better-and-what-exactly-is-olo
+
+### In-place algorithm
+
+A replace
