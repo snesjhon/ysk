@@ -33,10 +33,13 @@ function removeDuplicates(arr) {
   return index;
 }
 
-// let nums = [1, 1, 2];
-// let len = removeDuplicates(nums); //?
+// Although we're only returning the length of the array, since the original
+// array is passed by reference, the original array would be modified.
+let nums = [1, 1, 2];
+let len = removeDuplicates(nums);
+for (let i = 0; i < len; i++) {
+  // nums === [1, 2, 2] -> this is because we've overwriten the array through reference
+  console.log(nums[i]); // 1,2
+}
 
-// for(let i = 0; i < len; i++){
-
-// }
-removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]);
+removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]); //?
