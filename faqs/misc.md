@@ -25,7 +25,7 @@ Javascript uses a pass by value strategy for primitives but uses a call by shari
 
 ## Increment vs Post-increment in an array
 
-I was confused as to what `arr[index++]` does in the [removeDuplicates](removeDuplicates.js) question
+I was confused as to what `arr[index++]` does in the [removeDuplicates](leetcode/removeDuplicates.js) question
 
 ```js
 let index = 1;
