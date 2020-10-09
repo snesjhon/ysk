@@ -1,6 +1,18 @@
 # My CS Journey
 
-A personal journey of learning and teaching myself how to be a better engineer.
+### Algorithms
 
-I'd like for this README.md to be a part of the gitbook commit
+{% page-ref page="algorithms/bigo.md" %}
+
+{% page-ref page="algorithms/minsubarraylen.md" %}
+
+
+
+### JavaScript
+
+
+
+
+
+
 
