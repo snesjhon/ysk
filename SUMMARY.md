@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💻 CS](README.md)
+* [My CS Journey](README.md)
 * [faqs](faqs/README.md)
   * [bigO](faqs/bigo.md)
   * [Misc Questions](faqs/misc.md)
