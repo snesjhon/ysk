@@ -21,7 +21,6 @@ maxSubarraySum([100,200,300,400], 2) // 700
 This is a sliding window problem. Run two for loops, one getting your initial `sum` and assigning to a `maxSum` then you should be able to determine a difference and update the `maxSum` as needed. 
 
 ```javascript
-
 function maxSubarraySum(arr, num){ 
     // Get your initial sum
     let sum = 0;
