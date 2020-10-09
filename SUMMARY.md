@@ -10,3 +10,7 @@
 * [codeacademy](codeacademy/README.md)
   * [Terminology](codeacademy/sql.md)
 
+## Algorithms
+
+* [maxSubArraySum](algorithms/maxsubarraysum.md)
+
