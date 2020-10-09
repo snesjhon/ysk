@@ -12,5 +12,6 @@
 
 ## Algorithms
 
+* [minSubArrayLen](algorithms/minsubarraylen.md)
 * [maxSubArraySum](algorithms/maxsubarraysum.md)
 
