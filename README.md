@@ -1,6 +1,10 @@
 # 💻 CS
 
-A personal journey of learning and teaching myself how to be a better engineer.
+A personal journey of learning and teaching myself how to be a better engineer. 
+
+## This Week I Learned
+
+* Week 3
 
 ## CodeRust
 
@@ -8,12 +12,13 @@ All of the course material is taken from: [Code Rust](https://www.educative.io/c
 
 ### Arrays
 
-- [Binary Search](binary.js)
+* [Binary Search](https://github.com/snesjhon/cs/tree/e0121b714018febf2f30465f26b64b2d948011c0/binary.js)
 
 ## Hacker Rank
 
-- [Sock Merchange](sockMerchant.js)
+* [Sock Merchange](https://github.com/snesjhon/cs/tree/e0121b714018febf2f30465f26b64b2d948011c0/sockMerchant.js)
 
 ## FAQs
 
-- [Big O](bigO.md)
+* [Big O](https://github.com/snesjhon/cs/tree/e0121b714018febf2f30465f26b64b2d948011c0/bigO.md)
+
