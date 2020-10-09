@@ -16,7 +16,7 @@ All of the course material is taken from: [Code Rust](https://www.educative.io/c
 
 ## Hacker Rank
 
-* [Sock Merchange](https://github.com/snesjhon/cs/tree/e0121b714018febf2f30465f26b64b2d948011c0/sockMerchant.js)
+* [Sock Merchan](https://github.com/snesjhon/cs/tree/e0121b714018febf2f30465f26b64b2d948011c0/sockMerchant.js)t
 
 ## FAQs
 
