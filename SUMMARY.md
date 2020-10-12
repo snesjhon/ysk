@@ -11,6 +11,7 @@
 * [bigO](algorithms/bigo.md)
 * [minSubArrayLen](algorithms/minsubarraylen.md)
 * [maxSubArraySum](algorithms/maxsubarraysum.md)
+* [findLongestSubstring](algorithms/findlongestsubstring.md)
 
 ## JavaScript
 
