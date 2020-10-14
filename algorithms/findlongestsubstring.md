@@ -18,21 +18,22 @@ findLongestSubstring('thisishowwedoit') // 6
 {% tab title="Solution" %}
 ```javascript
 function findLongestSubstring(str) {
-  let longest = 0;
-  let seen = {};
-  let start = 0;
- 
-  for (let i = 0; i < str.length; i++) {
-    let char = str[i];
-    if (seen[char]) {
-      start = Math.max(start, seen[char]);
+  let a_pointer = 0;
+  let b_pointer = 0;
+  let max = 0;
+  const hash = new Set();
+
+  while (b_pointer < str.length) {
+    if (!hash.has(str[b_pointer])) {
+      hash.add(str[b_pointer]);
+      b_pointer++;
+      max = Math.max(hash.size, max);
+    } else {
+      hash.delete(str[a_pointer]);
+      a_pointer++;
     }
-    // index - beginning of substring + 1 (to include current in count)
-    longest = Math.max(longest, i - start + 1);
-    // store the index of the next char so as to not double count
-    seen[char] = i + 1;
   }
-  return longest;
+  return max;
 }
 ```
 {% endtab %}
