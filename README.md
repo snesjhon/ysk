@@ -4,7 +4,7 @@
 
 {% page-ref page="algorithms/bigo.md" %}
 
-{% page-ref page="algorithms/minsubarraylen.md" %}
+{% page-ref page="algorithms/sliding-window/minsubarraylen.md" %}
 
 ### JavaScript
 
