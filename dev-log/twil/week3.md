@@ -1,4 +1,4 @@
-# This Week I Learned - Week 3
+# Week 3
 
 ### Oct 8, 2020
 

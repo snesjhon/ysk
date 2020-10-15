@@ -1,8 +1,6 @@
 # Table of contents
 
 * [My CS Journey](README.md)
-* [This Week I Learned](twil/README.md)
-  * [This Week I Learned - Week 3](twil/week3.md)
 * [codeacademy](codeacademy/README.md)
   * [Terminology](codeacademy/sql.md)
 
@@ -20,4 +18,15 @@
 
 * [TypeScript](javascript/ts.md)
 * [Misc Questions](javascript/misc.md)
+* [Declarative vs Imperative](javascript/declarative-vs-imperative.md)
+
+## Dev Log
+
+* [This Week I Learned](dev-log/twil/README.md)
+  * [Week 4](dev-log/twil/week-4.md)
+  * [Week 3](dev-log/twil/week3.md)
+
+## React
+
+* [Info](react/info.md)
 
