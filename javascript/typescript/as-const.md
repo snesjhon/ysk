@@ -1,4 +1,4 @@
-# TypeScript
+# as const
 
 * We use `as const` to type assert. And this works great if :
 

@@ -16,7 +16,8 @@
 
 ## JavaScript
 
-* [TypeScript](javascript/ts.md)
+* [TypeScript](javascript/typescript/README.md)
+  * [as const](javascript/typescript/as-const.md)
 * [Misc Questions](javascript/misc.md)
 * [Declarative vs Imperative](javascript/declarative-vs-imperative.md)
 
