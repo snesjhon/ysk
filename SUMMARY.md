@@ -20,6 +20,7 @@
   * [as const](javascript/typescript/as-const.md)
 * [Misc Questions](javascript/misc.md)
 * [Declarative vs Imperative](javascript/declarative-vs-imperative.md)
+* [Slice vs Splice vs Split](javascript/slice-vs-splice-vs-split.md)
 
 ## Dev Log
 
