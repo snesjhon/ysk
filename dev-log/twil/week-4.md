@@ -1,5 +1,15 @@
 # Week 4
 
+## October 16th
+
+### Recursion
+
+* Two essential parts of a recursive function
+  * base case
+  * different input
+
+
+
 ## October 14th
 
 ### Recursion
