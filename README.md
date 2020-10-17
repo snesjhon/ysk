@@ -1,4 +1,4 @@
-# My CS Journey
+# CS
 
 
 

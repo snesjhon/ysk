@@ -1,4 +1,4 @@
-# Terminology
+# SQL
 
 ```sql
 id INTEGER

@@ -1,8 +1,6 @@
 # Table of contents
 
-* [My CS Journey](README.md)
-* [codeacademy](codeacademy/README.md)
-  * [Terminology](codeacademy/sql.md)
+* [CS](README.md)
 
 ## Algorithms
 
@@ -28,7 +26,8 @@
   * [Week 4](dev-log/twil/week-4.md)
   * [Week 3](dev-log/twil/week3.md)
 
-## React
+## Info
 
-* [Info](react/info.md)
+* [SQL](info/sql.md)
+* [React](info/info.md)
 
