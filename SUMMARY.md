@@ -11,6 +11,8 @@
   * [findLongestSubstring](algorithms/sliding-window/findlongestsubstring.md)
 * [Frequency Counter](algorithms/frequency-counter/README.md)
   * [sameFrequency](algorithms/frequency-counter/samefrequency.md)
+* [Recursion](algorithms/recursion/README.md)
+  * [Fibonnacci](algorithms/recursion/fibonnacci.md)
 
 ## JavaScript
 
