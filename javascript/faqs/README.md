@@ -1,4 +1,4 @@
-# Misc Questions
+# Frequently Asked Questions
 
 ## `++i` vs. `i++` in JavaScript
 

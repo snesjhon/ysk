@@ -12,15 +12,16 @@
 * [Frequency Counter](algorithms/frequency-counter/README.md)
   * [sameFrequency](algorithms/frequency-counter/samefrequency.md)
 * [Recursion](algorithms/recursion/README.md)
+  * [Reverse a String](algorithms/recursion/reverse-a-string.md)
   * [Fibonnacci](algorithms/recursion/fibonnacci.md)
 
 ## JavaScript
 
 * [TypeScript](javascript/typescript/README.md)
   * [as const](javascript/typescript/as-const.md)
-* [Misc Questions](javascript/misc.md)
-* [Declarative vs Imperative](javascript/declarative-vs-imperative.md)
-* [Slice vs Splice vs Split](javascript/slice-vs-splice-vs-split.md)
+* [Frequently Asked Questions](javascript/faqs/README.md)
+  * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
+  * [Slice vs Splice vs Split](javascript/faqs/slice-vs-splice-vs-split.md)
 
 ## Dev Log
 
