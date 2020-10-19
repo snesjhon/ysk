@@ -1,8 +1,16 @@
 # Week 4
 
+## October 18th
+
+* Finished Solving
+  * [flattening](../../algorithms/recursion/flattening.md)
+
 ## October 17th
 
-### Recursion
+* Solving the following problems
+  * flattening
+  * someRecursive
+  * isPalindrome
 
 ## October 16th
 

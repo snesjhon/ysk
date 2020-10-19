@@ -18,6 +18,7 @@
 * [Frequency Counter](algorithms/frequency-counter/README.md)
   * [sameFrequency](algorithms/frequency-counter/samefrequency.md)
 * [Recursion](algorithms/recursion/README.md)
+  * [Flattening](algorithms/recursion/flattening.md)
   * [Reverse a String](algorithms/recursion/reverse-a-string.md)
   * [Fibonnacci](algorithms/recursion/fibonnacci.md)
 
