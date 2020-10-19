@@ -4,6 +4,8 @@
 
 * Finished Solving
   * [flattening](../../algorithms/recursion/flattening.md)
+* Started Solving
+  * nestedEvenSum
 
 ## October 17th
 
