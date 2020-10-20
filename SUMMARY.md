@@ -22,6 +22,8 @@
   * [flatten](algorithms/recursion/flattening.md)
   * [Reverse a String](algorithms/recursion/reverse-a-string.md)
   * [Fibonnacci](algorithms/recursion/fibonnacci.md)
+* [Searching](algorithms/searching/README.md)
+  * [binarySearch](algorithms/searching/binarysearch.md)
 
 ## JavaScript
 
