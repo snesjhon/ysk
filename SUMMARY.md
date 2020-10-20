@@ -23,6 +23,7 @@
   * [Reverse a String](algorithms/recursion/reverse-a-string.md)
   * [Fibonnacci](algorithms/recursion/fibonnacci.md)
 * [Searching](algorithms/searching/README.md)
+  * [twoStringSearch](algorithms/searching/twostringsearch.md)
   * [binarySearch](algorithms/searching/binarysearch.md)
 
 ## JavaScript
