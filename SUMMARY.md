@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CS](README.md)
+* [You Should Know](README.md)
 
 ## Dev Log
 
