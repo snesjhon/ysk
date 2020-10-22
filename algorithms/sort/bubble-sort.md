@@ -12,6 +12,34 @@ bubbleSort([4,3,2,1]) // [1,2,3,4]
 {% tab title="Solution \#1" %}
 ```javascript
 /**
+This is the brute force way
+Two for loops that continuously swap regardless of length
+*/
+function bubbleSort(){
+    for(var i = 0; i < arr.length; i++){
+        for(var j = 0; j < arr.length; j++){
+            if(arr[j] > arr[j + 1]){
+                var temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
+    }
+}
+
+/**
+This is a very naive way of sorting because we're having to continously 
+loop through the array multiple times. The `i` goes through the whole array
+and continues until the end of the array. 
+`j` goes through the array and also continues until the end of the array
+but we compare `j` and `j
+*/
+```
+{% endtab %}
+
+{% tab title="Solution \#1" %}
+```javascript
+/**
 Here is my initial solution
 
 */
@@ -44,4 +72,10 @@ function bubbleSort(arr){
 ```
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+
+{% endhint %}
+
+
 
