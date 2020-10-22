@@ -23,7 +23,6 @@
 
 ## Algorithms
 
-* [ReadMe](algorithms/bigo.md)
 * [Sliding Window](algorithms/sliding-window/README.md)
   * [minSubArrayLen](algorithms/sliding-window/minsubarraylen.md)
   * [maxSubArraySum](algorithms/sliding-window/maxsubarraysum.md)
