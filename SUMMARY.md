@@ -2,12 +2,12 @@
 
 * [You Should Know](README.md)
 
-## Dev Log
+## Dev Blog <a id="blog"></a>
 
-* [This Week I Learned](dev-log/twil/README.md)
-  * [Week 5](dev-log/twil/week-5.md)
-  * [Week 4](dev-log/twil/week-4.md)
-  * [Week 3](dev-log/twil/week3.md)
+* [This Week I Learned](blog/twil/README.md)
+  * [Week 5](blog/twil/week-5.md)
+  * [Week 4](blog/twil/week-4.md)
+  * [Week 3](blog/twil/week3.md)
 
 ## Algorithms
 
@@ -28,6 +28,7 @@
   * [twoStringSearch](algorithms/searching/twostringsearch.md)
   * [binarySearch](algorithms/searching/binarysearch.md)
 * [Sort](algorithms/sort/README.md)
+  * [Bubble Sort](algorithms/sort/bubble-sort.md)
   * [quickSort](algorithms/sort/quicksort.md)
 
 ## JavaScript
