@@ -9,9 +9,21 @@
   * [Week 4](blog/twil/week-4.md)
   * [Week 3](blog/twil/week3.md)
 
+## JavaScript
+
+* [React](javascript/info.md)
+* [TypeScript](javascript/typescript/README.md)
+  * [as const](javascript/typescript/as-const.md)
+* [Frequently Asked Questions](javascript/faqs/README.md)
+  * [Timeout](javascript/faqs/timeout.md)
+  * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
+  * [Slice vs Splice vs Split](javascript/faqs/slice-vs-splice-vs-split.md)
+  * [Pass by Value vs Reference](javascript/faqs/pass-by-value-vs-reference.md)
+  * [++i vs. i++](javascript/faqs/++i-vs.-i++.md)
+
 ## Algorithms
 
-* [bigO](algorithms/bigo.md)
+* [ReadMe](algorithms/bigo.md)
 * [Sliding Window](algorithms/sliding-window/README.md)
   * [minSubArrayLen](algorithms/sliding-window/minsubarraylen.md)
   * [maxSubArraySum](algorithms/sliding-window/maxsubarraysum.md)
@@ -30,20 +42,11 @@
 * [Sort](algorithms/sort/README.md)
   * [Bubble Sort](algorithms/sort/bubble-sort.md)
   * [quickSort](algorithms/sort/quicksort.md)
+* [FAQs](algorithms/faqs.md)
 
-## JavaScript
+## Databases <a id="db"></a>
 
-* [React](javascript/info.md)
-* [TypeScript](javascript/typescript/README.md)
-  * [as const](javascript/typescript/as-const.md)
-* [Frequently Asked Questions](javascript/faqs/README.md)
-  * [Timeout](javascript/faqs/timeout.md)
-  * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
-  * [Slice vs Splice vs Split](javascript/faqs/slice-vs-splice-vs-split.md)
-
-## Info
-
-* [SQL](info/sql.md)
+* [SQL](db/sql.md)
 
 ## Code Challenges <a id="challenges"></a>
 
