@@ -5,6 +5,7 @@
 ## Dev Log
 
 * [This Week I Learned](dev-log/twil/README.md)
+  * [Week 5](dev-log/twil/week-5.md)
   * [Week 4](dev-log/twil/week-4.md)
   * [Week 3](dev-log/twil/week3.md)
 
