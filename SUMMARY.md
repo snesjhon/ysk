@@ -23,8 +23,11 @@
   * [Reverse a String](algorithms/recursion/reverse-a-string.md)
   * [Fibonnacci](algorithms/recursion/fibonnacci.md)
 * [Searching](algorithms/searching/README.md)
+  * [overlappingIntervals](algorithms/searching/overlappingintervals.md)
   * [twoStringSearch](algorithms/searching/twostringsearch.md)
   * [binarySearch](algorithms/searching/binarysearch.md)
+* [Sort](algorithms/sort/README.md)
+  * [quickSort](algorithms/sort/quicksort.md)
 
 ## JavaScript
 
@@ -32,10 +35,19 @@
 * [TypeScript](javascript/typescript/README.md)
   * [as const](javascript/typescript/as-const.md)
 * [Frequently Asked Questions](javascript/faqs/README.md)
+  * [Timeout](javascript/faqs/timeout.md)
   * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
   * [Slice vs Splice vs Split](javascript/faqs/slice-vs-splice-vs-split.md)
 
 ## Info
 
 * [SQL](info/sql.md)
+
+## Code Challenges <a id="challenges"></a>
+
+* [LeetCode](challenges/leetcode/README.md)
+  * [removeDuplicates](challenges/leetcode/removeduplicates.md)
+* [Hacker Rank](challenges/hacker-rank/README.md)
+  * [twoSums](challenges/hacker-rank/twosums.md)
+  * [Sock Merchant](challenges/hacker-rank/sock-merchant.md)
 
