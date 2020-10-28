@@ -47,6 +47,7 @@
   * [Insertion Sort](algorithms/sort/insertion-sort.md)
   * [quickSort](algorithms/sort/quicksort.md)
 * [Sort - Intermediate](algorithms/sort-intermediate/README.md)
+  * [Radix Sort](algorithms/sort-intermediate/radix-sort.md)
   * [Merge Sort](algorithms/sort-intermediate/merge-sort.md)
 * [FAQs](algorithms/faqs.md)
 
