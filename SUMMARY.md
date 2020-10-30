@@ -53,6 +53,8 @@
 * [Sort - Intermediate](algorithms/sort-intermediate/README.md)
   * [Radix Sort](algorithms/sort-intermediate/radix-sort.md)
   * [Merge Sort](algorithms/sort-intermediate/merge-sort.md)
+* [Data Structures](algorithms/data-structures/README.md)
+  * [FAQs](algorithms/data-structures/faqs.md)
 * [FAQs](algorithms/faqs.md)
 
 ## Databases <a id="db"></a>
