@@ -16,6 +16,7 @@
   * [as const](javascript/typescript/as-const.md)
 * [Function](javascript/function.md)
 * [Math](javascript/math/README.md)
+  * [Math.log10](javascript/math/math.log10.md)
   * [Math.pow\(\)](javascript/math/math.pow.md)
 * [Array](javascript/array/README.md)
   * [Apply](javascript/array/apply.md)

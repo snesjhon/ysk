@@ -13,3 +13,7 @@ I think about it in fingers, how many times does the denominator go into the num
 5 % 0 === NaN
 ```
 
+This can be used to figure out remainders and what to use in the tail end of something. For example the Repeating Strings problem.
+
+
+
