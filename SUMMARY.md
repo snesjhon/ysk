@@ -57,10 +57,6 @@
   * [FAQs](algorithms/data-structures/faqs.md)
 * [FAQs](algorithms/faqs.md)
 
-## Databases <a id="db"></a>
-
-* [SQL](db/sql.md)
-
 ## Code Challenges <a id="challenges"></a>
 
 * [LeetCode](challenges/leetcode/README.md)
@@ -68,4 +64,10 @@
 * [Hacker Rank](challenges/hacker-rank/README.md)
   * [twoSums](challenges/hacker-rank/twosums.md)
   * [Sock Merchant](challenges/hacker-rank/sock-merchant.md)
+* [Hacker Rank - Medium](challenges/hacker-rank-medium/README.md)
+  * [New Year Chaos](challenges/hacker-rank-medium/new-year-chaos.md)
+
+## Databases <a id="db"></a>
+
+* [SQL](db/sql.md)
 
