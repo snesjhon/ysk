@@ -5,6 +5,7 @@
 ## Dev Blog <a id="blog"></a>
 
 * [This Week I Learned](blog/twil/README.md)
+  * [Week 6](blog/twil/week-6.md)
   * [Week 5](blog/twil/week-5.md)
   * [Week 4](blog/twil/week-4.md)
   * [Week 3](blog/twil/week3.md)
