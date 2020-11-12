@@ -72,3 +72,8 @@
 
 * [SQL](db/sql.md)
 
+## Data Structures
+
+* [Linked Lists](data-structures/linked-lists/README.md)
+  * [Singly Linked Lists](data-structures/linked-lists/singly-linked-lists.md)
+
