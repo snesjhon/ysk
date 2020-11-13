@@ -12,6 +12,7 @@
 
 ## JavaScript
 
+* [Hoisting](javascript/hoisting.md)
 * [React](javascript/info.md)
 * [TypeScript](javascript/typescript/README.md)
   * [as const](javascript/typescript/as-const.md)
