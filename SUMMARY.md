@@ -12,7 +12,9 @@
 
 ## JavaScript
 
-* [Hoisting](javascript/hoisting.md)
+* [Hosting](javascript/hosting/README.md)
+  * [Hoisting Q1](javascript/hosting/hoisting-q1.md)
+  * [Hoisting Q2](javascript/hosting/hoisting-q2.md)
 * [React](javascript/info.md)
 * [TypeScript](javascript/typescript/README.md)
   * [as const](javascript/typescript/as-const.md)
