@@ -62,6 +62,11 @@
   * [FAQs](algorithms/data-structures/faqs.md)
 * [FAQs](algorithms/faqs.md)
 
+## Data Structures
+
+* [Linked Lists](data-structures/linked-lists/README.md)
+  * [Singly Linked Lists](data-structures/linked-lists/singly-linked-lists.md)
+
 ## Code Challenges <a id="challenges"></a>
 
 * [LeetCode](challenges/leetcode/README.md)
@@ -75,9 +80,4 @@
 ## Databases <a id="db"></a>
 
 * [SQL](db/sql.md)
-
-## Data Structures
-
-* [Linked Lists](data-structures/linked-lists/README.md)
-  * [Singly Linked Lists](data-structures/linked-lists/singly-linked-lists.md)
 
