@@ -7,7 +7,7 @@
 * [This Week I Learned](blog/twil/README.md)
   * [11/16 - 11/21](blog/twil/11-16-11-21.md)
   * [10/31 - 11/4](blog/twil/week-6.md)
-  * [10/19 - 10/23](blog/twil/week-5.md)
+  * [Week 5](blog/twil/week-5.md)
   * [Week 4](blog/twil/week-4.md)
   * [Week 3](blog/twil/week3.md)
 
