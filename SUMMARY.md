@@ -60,12 +60,11 @@
 * [Sort - Intermediate](algorithms/sort-intermediate/README.md)
   * [Radix Sort](algorithms/sort-intermediate/radix-sort.md)
   * [Merge Sort](algorithms/sort-intermediate/merge-sort.md)
-* [Data Structures](algorithms/data-structures/README.md)
-  * [FAQs](algorithms/data-structures/faqs.md)
 * [FAQs](algorithms/faqs.md)
 
 ## Data Structures
 
+* [FAQs](data-structures/faqs.md)
 * [Linked Lists](data-structures/linked-lists/README.md)
   * [Singly Linked Lists](data-structures/linked-lists/singly-linked-lists.md)
 
