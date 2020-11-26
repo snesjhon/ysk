@@ -18,6 +18,7 @@
   * [Hoisting Q1](javascript/hosting/hoisting-q1.md)
   * [Hoisting Q2](javascript/hosting/hoisting-q2.md)
 * [React](javascript/info.md)
+* [call, apply, bind](javascript/call-apply-bind.md)
 * [TypeScript](javascript/typescript/README.md)
   * [as const](javascript/typescript/as-const.md)
 * [Function](javascript/function/README.md)
@@ -65,9 +66,9 @@
 
 ## Data Structures
 
-* [FAQs](data-structures/faqs.md)
 * [Linked Lists](data-structures/linked-lists/README.md)
   * [Singly Linked Lists](data-structures/linked-lists/singly-linked-lists.md)
+* [FAQs](data-structures/faqs.md)
 
 ## Code Challenges <a id="challenges"></a>
 
