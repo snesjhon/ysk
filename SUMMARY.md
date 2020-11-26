@@ -28,6 +28,7 @@
 * [Array](javascript/array/README.md)
   * [Apply](javascript/array/apply.md)
   * [Slice vs Splice vs Split](javascript/array/slice-vs-splice-vs-split.md)
+* [This](javascript/this.md)
 * [FAQs](javascript/faqs/README.md)
   * [Modulo Operator](javascript/faqs/modulo-operator.md)
   * [Timeout](javascript/faqs/timeout.md)
