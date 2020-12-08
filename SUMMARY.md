@@ -31,6 +31,7 @@
   * [Slice vs Splice vs Split](javascript/array/slice-vs-splice-vs-split.md)
 * [This](javascript/this.md)
 * [FAQs](javascript/faqs/README.md)
+  * [Different types of Scopes](javascript/faqs/different-types-of-scopes.md)
   * [Modulo Operator](javascript/faqs/modulo-operator.md)
   * [Timeout](javascript/faqs/timeout.md)
   * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
