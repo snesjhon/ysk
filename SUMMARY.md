@@ -15,6 +15,7 @@
 ## JavaScript
 
 * [Hosting](javascript/hosting/README.md)
+  * [Are Let & Const Hoisted?](javascript/hosting/are-let-and-const-hoisted.md)
   * [Hoisting Q1](javascript/hosting/hoisting-q1.md)
   * [Hoisting Q2](javascript/hosting/hoisting-q2.md)
 * [React](javascript/info.md)
