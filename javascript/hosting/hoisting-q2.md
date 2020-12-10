@@ -16,9 +16,22 @@ foodFun();
 {% endtab %}
 
 {% tab title="Answer" %}
-```bash
-"original: undefined"
-"new: sushi"
+```javascript
+//"original: undefined"
+//"new: sushi"
+
+// this would translate to
+var food = "grapes"
+var foodFun = function(){
+    var food;
+    console.log("original:", food); // undefined
+    food = "sushi";
+    console.log("new:", food); // sushi
+}
+foodFun();
+
+// the function will keep its scope after hoisting and the `food` var 
+// will be replaced
 ```
 
 ## Thoughts
