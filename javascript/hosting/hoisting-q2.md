@@ -3,7 +3,7 @@
 What would this print out?
 
 {% tabs %}
-{% tab title="Quesiton" %}
+{% tab title="Question" %}
 ```javascript
 var food = "grapes"
 var foodFun = function(){
