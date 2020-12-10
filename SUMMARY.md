@@ -14,11 +14,11 @@
 
 ## JavaScript
 
+* [React](javascript/info.md)
 * [Hosting](javascript/hosting/README.md)
   * [Are Let & Const Hoisted?](javascript/hosting/are-let-and-const-hoisted.md)
   * [Hoisting Q1](javascript/hosting/hoisting-q1.md)
   * [Hoisting Q2](javascript/hosting/hoisting-q2.md)
-* [React](javascript/info.md)
 * [call, apply, bind](javascript/call-apply-bind.md)
 * [TypeScript](javascript/typescript/README.md)
   * [as const](javascript/typescript/as-const.md)
@@ -33,6 +33,7 @@
 * [This](javascript/this/README.md)
   * [This - Q1](javascript/this/this-q1.md)
 * [FAQs](javascript/faqs/README.md)
+  * [Context vs Scope](javascript/faqs/context-vs-scope.md)
   * [Different types of Scopes](javascript/faqs/different-types-of-scopes.md)
   * [Modulo Operator](javascript/faqs/modulo-operator.md)
   * [Timeout](javascript/faqs/timeout.md)
