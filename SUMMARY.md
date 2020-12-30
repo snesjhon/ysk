@@ -14,14 +14,13 @@
 
 ## JavaScript
 
-* [React](javascript/info.md)
+* [Values](javascript/values/README.md)
+  * [Primitives & Functions / Objects](javascript/values/primitives-and-functions-objects.md)
 * [Hosting](javascript/hosting/README.md)
   * [Are Let & Const Hoisted?](javascript/hosting/are-let-and-const-hoisted.md)
   * [Hoisting Q1](javascript/hosting/hoisting-q1.md)
   * [Hoisting Q2](javascript/hosting/hoisting-q2.md)
 * [call, apply, bind](javascript/call-apply-bind.md)
-* [TypeScript](javascript/typescript/README.md)
-  * [as const](javascript/typescript/as-const.md)
 * [Function](javascript/function/README.md)
   * [Different types of Scopes](javascript/function/different-types-of-scopes.md)
   * [Context vs Scope](javascript/function/context-vs-scope.md)
@@ -35,12 +34,18 @@
   * [Slice vs Splice vs Split](javascript/array/slice-vs-splice-vs-split.md)
 * [This](javascript/this/README.md)
   * [This - Q1](javascript/this/this-q1.md)
+* [TypeScript](javascript/typescript/README.md)
+  * [as const](javascript/typescript/as-const.md)
 * [FAQs](javascript/faqs/README.md)
   * [Modulo Operator](javascript/faqs/modulo-operator.md)
   * [Timeout](javascript/faqs/timeout.md)
   * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
   * [Pass by Value vs Reference](javascript/faqs/pass-by-value-vs-reference.md)
   * [++i vs. i++](javascript/faqs/++i-vs.-i++.md)
+
+## react
+
+* [FAQs](react/info.md)
 
 ## Algorithms
 

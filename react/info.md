@@ -1,4 +1,4 @@
-# React
+# FAQs
 
 **How would you explain React to someone who is knowledgeable about JavaScript but isn't that familiar with React?**
 
