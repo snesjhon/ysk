@@ -1,4 +1,10 @@
-# Primitives & Functions / Objects
+# Primitive vs Reference
+
+{% hint style="info" %}
+In JavaScript, a variable may store two types of values: 
+
+**Primitives** and **Reference**
+{% endhint %}
 
 ## 7 Primitives \(Data Types\)
 
@@ -17,13 +23,22 @@
 * **Symbols**:
   *  More on this later
 
-## Functions and Objects \(Structural types\)
+The size of a primitive value is fixed, therefore, JS stores the primitive value on the stack
 
-* **Objects**: 
-  * One value for every object literal we execute.
-  * A non-data but Structural type.
-* **Function**: 
-  * One value for every function expression we execute.
+## Objects \(Reference Type\)
+
+* One value for every object literal we execute
+* A non-data type
+* Structural Type
+
+The size of a reference value is DYNAMIC so JS stores the reference value on the heap
+
+**Resource**: [https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/](https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
+
+## Functions
+
+* One value for every function expression we execute.
+* Structural Type
 
 
 

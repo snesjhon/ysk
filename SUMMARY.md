@@ -15,16 +15,18 @@
 ## JavaScript
 
 * [Values](javascript/values/README.md)
-  * [Primitives & Functions / Objects](javascript/values/primitives-and-functions-objects.md)
+  * [Primitive vs Reference](javascript/values/primitives-and-functions-objects.md)
+  * [Accessing by value and reference](javascript/values/pass-by-value-vs-reference.md)
+* [Function](javascript/function/README.md)
+  * [Pass by value](javascript/function/pass-by-value.md)
+  * [Different types of Scopes](javascript/function/different-types-of-scopes.md)
+  * [Context vs Scope](javascript/function/context-vs-scope.md)
+  * [Parse Time Vs Run Time](javascript/function/parse-time-vs-run-time.md)
 * [Hosting](javascript/hosting/README.md)
   * [Are Let & Const Hoisted?](javascript/hosting/are-let-and-const-hoisted.md)
   * [Hoisting Q1](javascript/hosting/hoisting-q1.md)
   * [Hoisting Q2](javascript/hosting/hoisting-q2.md)
 * [call, apply, bind](javascript/call-apply-bind.md)
-* [Function](javascript/function/README.md)
-  * [Different types of Scopes](javascript/function/different-types-of-scopes.md)
-  * [Context vs Scope](javascript/function/context-vs-scope.md)
-  * [Parse Time Vs Run Time](javascript/function/parse-time-vs-run-time.md)
 * [Standard Objects](javascript/standard-objects/README.md)
   * [Math](javascript/standard-objects/math/README.md)
     * [Math.log10](javascript/standard-objects/math/math.log10.md)
@@ -40,7 +42,6 @@
   * [Modulo Operator](javascript/faqs/modulo-operator.md)
   * [Timeout](javascript/faqs/timeout.md)
   * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
-  * [Pass by Value vs Reference](javascript/faqs/pass-by-value-vs-reference.md)
   * [++i vs. i++](javascript/faqs/++i-vs.-i++.md)
 
 ## react
