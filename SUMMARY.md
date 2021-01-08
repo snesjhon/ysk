@@ -14,6 +14,8 @@
 
 ## JavaScript
 
+* [Closures](javascript/closures/README.md)
+  * [Closure Q1](javascript/closures/closure-q1.md)
 * [Values](javascript/values/README.md)
   * [Primitive vs Reference](javascript/values/primitives-and-functions-objects.md)
   * [Accessing by value and reference](javascript/values/pass-by-value-vs-reference.md)
