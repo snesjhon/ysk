@@ -20,6 +20,7 @@
   * [Primitive vs Reference](javascript/values/primitives-and-functions-objects.md)
   * [Accessing by value and reference](javascript/values/pass-by-value-vs-reference.md)
 * [Function](javascript/function/README.md)
+  * [call, apply, bind](javascript/function/call-apply-bind.md)
   * [Pass by value](javascript/function/pass-by-value.md)
   * [Different types of Scopes](javascript/function/different-types-of-scopes.md)
   * [Context vs Scope](javascript/function/context-vs-scope.md)
@@ -28,7 +29,6 @@
   * [Are Let & Const Hoisted?](javascript/hosting/are-let-and-const-hoisted.md)
   * [Hoisting Q1](javascript/hosting/hoisting-q1.md)
   * [Hoisting Q2](javascript/hosting/hoisting-q2.md)
-* [call, apply, bind](javascript/call-apply-bind.md)
 * [Standard Objects](javascript/standard-objects/README.md)
   * [Math](javascript/standard-objects/math/README.md)
     * [Math.log10](javascript/standard-objects/math/math.log10.md)
@@ -45,6 +45,7 @@
   * [Timeout](javascript/faqs/timeout.md)
   * [Declarative vs Imperative](javascript/faqs/declarative-vs-imperative.md)
   * [++i vs. i++](javascript/faqs/++i-vs.-i++.md)
+* [Interview Questions](javascript/interview-questions.md)
 
 ## react
 
