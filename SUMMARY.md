@@ -41,6 +41,10 @@
 
 * [FAQs](react/info.md)
 
+## Ruby
+
+* [Intro](ruby/intro.md)
+
 ## Algorithms
 
 * [Sliding Window](algorithms/sliding-window/README.md)
