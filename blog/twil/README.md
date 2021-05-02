@@ -1,2 +1,0 @@
-# This Week I Learned
-
