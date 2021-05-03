@@ -2,6 +2,11 @@
 
 * [You Should Know](README.md)
 
+## Personal
+
+* [Blogs](personal/blogs/README.md)
+  * [vscodevim](personal/blogs/vscodevim.md)
+
 ## JavaScript
 
 * [Closures](javascript/closures/README.md)
