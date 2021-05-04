@@ -24,3 +24,9 @@ Honestly, I can't imagine coding any other way. It's a revolution in the way I t
 2. I was already using Hot Keys to work through my code. Just not efficiently.
    1. Ask yourself this:  How often are you using `Command + Shift + Arrow Right` to select the whole row and then delete the line. What if you could just press `dd` to delete everything.
 
+
+
+### Outline
+
+* Prob talk about different commands that I tend to use.
+
