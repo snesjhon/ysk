@@ -1,8 +1,8 @@
 # Modulo Operator
 
-I've had a hard time wrapping my head around the `%` operator because it seemed to me to be more in line with division and I couldn't let go of that image. But the way that I'm imagining it now is thinking about it as a remainder when dividing items and the output is the remainder. 
+I've had a hard time wrapping my head around the `%` operator because it seemed to me to be more in line with division and I couldn't let go of that image. But the way that I'm imagining it now is thinking about it as a remainder when dividing items and the output is the remainder.
 
-I think about it in fingers, how many times does the denominator go into the numerator and what's the remainder. 
+I think about it in fingers, how many times does the denominator go into the numerator and what's the remainder.
 
 ```bash
 5 % 5 === 0
@@ -14,6 +14,4 @@ I think about it in fingers, how many times does the denominator go into the num
 ```
 
 This can be used to figure out remainders and what to use in the tail end of something. For example the Repeating Strings problem.
-
-
 

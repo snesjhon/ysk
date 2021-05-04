@@ -25,7 +25,7 @@ function maxSubarraySum(arr, num){
     }    
     // Assign an initial maxSum based on the window above.
     let maxSum = sum
-    
+
     // A secondary for loop, that starts at the `num` because we've already
     // ran through the initial window. Now continue through the window
     for(let j = num; j < arr.length; j++){

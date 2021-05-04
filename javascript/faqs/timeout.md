@@ -20,7 +20,7 @@ const time3 = setTimeout(() => {
 console.log("e");
 ```
 
-### What would the input be?
+## What would the input be?
 
 Initially I thought it'd be `a,e,d,b,c` but that's wrong because I was thinking that because the the setTimeout would take into account delay that it'd place the `d` before the `b`. However because the time that it takes for the `a,e` to print out is theoretically a millisecond that it'd might as well be the same time as 0. It's just that because in the eventloop the `b` was placed before the `c` then it would fire first.
 
@@ -28,7 +28,7 @@ Initially I thought it'd be `a,e,d,b,c` but that's wrong because I was thinking 
 Answer: `a,e,b,d,c`
 {% endhint %}
 
-### Resources
+## Resources
 
 * [https://www.youtube.com/watch?v=USbiLiF9NDY&t=194s](https://www.youtube.com/watch?v=USbiLiF9NDY&t=194s)
 

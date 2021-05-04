@@ -41,5 +41,3 @@ foodFun();
 {% endtab %}
 {% endtabs %}
 
-
-

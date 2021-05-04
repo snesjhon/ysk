@@ -10,13 +10,9 @@ In my small world the real life hack was having the patience and time to learn V
 
 Well.....vscodevim.
 
----
-
-Honestly, I can't imagine coding any other way. It's a revolution in the way I think about and experience code. I won't be able to do it justice just through this blog. But what I can do is come up with a couple of reasons I went through this route. 
+Honestly, I can't imagine coding any other way. It's a revolution in the way I think about and experience code. I won't be able to do it justice just through this blog. But what I can do is come up with a couple of reasons I went through this route.
 
 > **This is not a tutorial**. These are just my reasons. Find your own reasons to explore VIM if you're curious
-
-
 
 ## I was already using VIM, in a sense.
 
@@ -26,5 +22,5 @@ Honestly, I can't imagine coding any other way. It's a revolution in the way I t
    3. The great thing about VSCode is that a lot of its functionality is clearly displayed in their settings and they can be connected into their keybindings. After the above commands i started exploring... okay, cool. `Command + Shift + E` opens the file tree, and `Command + CTRL + G` opens git. 
    4. But that was my great epiphany, I'm already memorizing and using all of these hot keys to open files, open the file tree, tab through each opened file, run commands, and even format on save. Why wouldn't/couldn't I use some hot keys to help me code a bit faster. 
 2. I was already using Hot Keys to work through my code. Just not efficiently.
-   1. Ask yourself this: 
+   1. Ask yourself this:  How often are you using `Command + Shift + Arrow Right` to select the whole row and then delete the line. What if you could just press `dd` to delete everything.
 

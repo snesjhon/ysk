@@ -1,8 +1,8 @@
 # minSubArrayLen
 
-Write a function called **minSubArrayLen** which accepts two parameters - an array of positive integers and a positive integer. 
+Write a function called **minSubArrayLen** which accepts two parameters - an array of positive integers and a positive integer.
 
-This function should return the minimal length of a **contiguous** subarray of which the sum is greater than or equal to the integer passed to the function. If there isn't one, return 0 instead. 
+This function should return the minimal length of a **contiguous** subarray of which the sum is greater than or equal to the integer passed to the function. If there isn't one, return 0 instead.
 
 {% tabs %}
 {% tab title="Data" %}
@@ -18,7 +18,7 @@ function minSubArrayLen(arr, target){
   let j = 0; // end
   let sum = 0;
   let ret = Infinity;
-  
+
   while(i < arr.length){
       if(sum < target && j < arr.length){
           // Our solution isn't in the current target, so add up the current
@@ -31,7 +31,7 @@ function minSubArrayLen(arr, target){
           // keep track of the return value
           // j - i would be the different of indexes 
           ret = Math.min(ret, j - i); 
-          
+
           // We found the solution in the current window, so decrement and 
           // remove the index from the sum 
           // try to find the target sum in a subsequent window
@@ -41,7 +41,7 @@ function minSubArrayLen(arr, target){
           break;
       }
   }
-  
+
   // Infinitiy is the target because we'd need to compare the `positive` integer
   // that needs to be GREATER than what we'd sumup
   return ret === Infinity ? 0 : ret;
@@ -50,9 +50,7 @@ function minSubArrayLen(arr, target){
 {% endtab %}
 {% endtabs %}
 
-### Notes
+## Notes
 
 * The subarray doesn't have to be a specific length. I found this curious because in the previous versions of the sliding window problem I'd have to at least know the size of the window before I started iterating. 
-
-
 

@@ -15,7 +15,6 @@ Output: 5
 
 {% tab title="Solutions" %}
 ```javascript
-
 function removeDuplicates(arr) {
   // We want to start at 1 because the first element of the array will ALWAYS be unique no matter t
   // the length of the array.
@@ -45,7 +44,7 @@ removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]);
 {% endtab %}
 {% endtabs %}
 
-### Resources
+## Resources
 
 * [https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
 

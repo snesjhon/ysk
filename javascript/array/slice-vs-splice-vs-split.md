@@ -9,9 +9,9 @@ This method copies a given part of an array and returns that copied array. **It 
 * **From:** Slice the array starting **from** an element index
 * **Until:** Slice the array until another element index
 
- **The `slice()` method doesn't include the last given element**
+  **The `slice()` method doesn't include the last given element**
 
-If `end` is omitted, `slice` extracts through the end of the sequence \(`arr.length`\). 
+If `end` is omitted, `slice` extracts through the end of the sequence \(`arr.length`\).
 
 ```javascript
 const arr = [1,2,3,4,5];

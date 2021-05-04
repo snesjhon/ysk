@@ -1,6 +1,6 @@
 # Singly Linked Lists
 
-This is being implemented in a Typescript 
+This is being implemented in a Typescript
 
 ```typescript
 class Nodes {
@@ -56,7 +56,7 @@ const item = new SinglyList();
 pop(){
     // Let's start from the beginning of the list
     let current = this.head; 
-    
+
     // We also need to keep a reference of the penultimate node
     // this is because we'll use this as a reference when we replace
     let nextTail = current;
@@ -69,10 +69,10 @@ pop(){
     this.tail = nextTail;
     // Also need to make sure that the `next` prop is null to sever the connection
     this.tail.next = null;
-    
+
     // Decrement since we're poping from the back of the list
     this.length--;
-    
+
     // Edge case: We need to assure that if we reach the end of the list
     // that we'd assign everything to null since we have no other connections.
     if(this.length === 0){

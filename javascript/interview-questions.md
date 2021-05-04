@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Question" %}
-### What is hoisting in javascript?
+## What is hoisting in javascript?
 {% endtab %}
 
 {% tab title="Answer" %}
@@ -17,7 +17,7 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 
 {% tabs %}
 {% tab title="Question" %}
-### Write a function to reverse a hashmap/object. so set the values as properties and properties as values
+## Write a function to reverse a hashmap/object. so set the values as properties and properties as values
 {% endtab %}
 
 {% tab title="Answer" %}

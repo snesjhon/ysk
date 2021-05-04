@@ -8,7 +8,7 @@ function a(){
 }
 
 // These two are the same
-a() === a.call() 
+a() === a.call()
 ```
 
 ## Questions
@@ -74,7 +74,7 @@ var c = {
 c.say()()
 ```
 
-This would return `window` that's because the function isn't bounded to anything. As in it's `.` is not called by anything. 
+This would return `window` that's because the function isn't bounded to anything. As in it's `.` is not called by anything.
 
 `c.say()` is run, and it'd equal something like `var temp = c.say()` and then `temp()`would then be executed. And since `temp` isn't bounded to anything it'd just be the window object.
 
@@ -91,6 +91,4 @@ d.say()()
 This would return `{name: 'jay', say: fn}` Although it might look the same as `c` the main difference is that arrow function is lexically scopes the function
 {% endtab %}
 {% endtabs %}
-
-
 

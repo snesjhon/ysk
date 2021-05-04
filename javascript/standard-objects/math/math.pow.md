@@ -1,6 +1,6 @@
 # Math.pow\(\)
 
-The `Math.pow()` function returns the `base` to the `exponent` power. That is: 
+The `Math.pow()` function returns the `base` to the `exponent` power. That is:
 
 $$
 base^{exponent}
@@ -17,6 +17,4 @@ Math.pow(7,3) // 343
 This would be equal to `7 X 7 X 7`
 {% endtab %}
 {% endtabs %}
-
-
 

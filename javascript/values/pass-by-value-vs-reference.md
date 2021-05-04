@@ -21,7 +21,7 @@ console.log(a); // 1;
 console.log(b); // 5;
 ```
 
-The above works because we're accessing by value. We're copying the value  to `b` and b is a new address in the stack. `a` and `b` have no relationship, when you change the value stored in the `b` variable, the value of the `a` variable doesn't change.
+The above works because we're accessing by value. We're copying the value to `b` and b is a new address in the stack. `a` and `b` have no relationship, when you change the value stored in the `b` variable, the value of the `a` variable doesn't change.
 
 ## Access by Reference
 

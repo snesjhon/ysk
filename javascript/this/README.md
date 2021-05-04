@@ -4,9 +4,9 @@
 `this` is the object that the function is a property of
 {% endhint %}
 
-`this` can also be thought of as whatever to the left of  `.` is referring to. 
+`this` can also be thought of as whatever to the left of `.` is referring to.
 
-In the `Global` context this will refer to the `Window` object. 
+In the `Global` context this will refer to the `Window` object.
 
 ## Examples
 
@@ -55,9 +55,9 @@ window.a(b())
 window.a(b(c.hi()))
 ```
 
-Since `this` is the object that the function is a property of. That means that `window` is the only thing that has called BOTH `a` and `b` therefore the `this` keyword only refers to `window` at this point. 
+Since `this` is the object that the function is a property of. That means that `window` is the only thing that has called BOTH `a` and `b` therefore the `this` keyword only refers to `window` at this point.
 
-When it goes down to `c.hi()` then `c` is the `object that the function is a property of` Therefore `this` will refer to `c` because it's the _thing_  that has made the `hi()` call.
+When it goes down to `c.hi()` then `c` is the `object that the function is a property of` Therefore `this` will refer to `c` because it's the _thing_ that has made the `hi()` call.
 {% endtab %}
 {% endtabs %}
 

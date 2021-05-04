@@ -53,7 +53,7 @@ Can be translated to during the first pass:
 a() // first function 
 a() // second function
 
- 
+
 function a(){}
 function a(){} 
 
@@ -63,7 +63,6 @@ function a(){}
 // would overwrite the first. 
 
 a() // bye
-
 ```
 {% endtab %}
 {% endtabs %}

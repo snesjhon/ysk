@@ -10,7 +10,7 @@ const character = {
   }
 };
 const giveMeTheCharacterNOW = character.getCharacter;
- 
+
 //How Would you fix this?
 console.log('?', giveMeTheCharacterNOW());
 ```

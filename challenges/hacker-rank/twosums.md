@@ -15,15 +15,14 @@ Output: [1,2]
 
 {% tab title="Brute" %}
 ```javascript
-
 var twoSum = function(nums, target) {
   // BRUTE
   // for(var i = 0; i <= nums.length - 1; i++){
-  // 	for(var j = 1; j <= nums.length - 1; j++){
-  // 		if(nums[i] + nums[j] === target){
-  // 			return [i, j]
-  // 		}
-  // 	}
+  //     for(var j = 1; j <= nums.length - 1; j++){
+  //         if(nums[i] + nums[j] === target){
+  //             return [i, j]
+  //         }
+  //     }
   // }
   // return result;
 
@@ -32,16 +31,16 @@ var twoSum = function(nums, target) {
   // let i = 0;
   // let j = nums.length - 1;
   // while(i < j){
-  // 	let result = nums[i] + nums[j];
-  // 	if(result === target){
-  // 		return [i, j]
-  // 	}
-  // 	if(result > target){
-  // 		j--;
-  // 	}
-  // 	if(result < target){
-  // 		i++;
-  // 	}
+  //     let result = nums[i] + nums[j];
+  //     if(result === target){
+  //         return [i, j]
+  //     }
+  //     if(result > target){
+  //         j--;
+  //     }
+  //     if(result < target){
+  //         i++;
+  //     }
   // }
   // return -1;
 
@@ -61,7 +60,7 @@ var twoSum = function(nums, target) {
 {% endtab %}
 {% endtabs %}
 
-### Resources
+## Resources
 
 [https://www.youtube.com/watch?v=I58Kw-9tHgY](https://www.youtube.com/watch?v=I58Kw-9tHgY)
 

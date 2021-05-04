@@ -38,7 +38,7 @@ function radixSort(nums){
 
 ## BigO
 
-This algorithm's best, worst, and average would be `O(wn)` because `w` is only the count of the longest word. Even though we have a nested loop we're not just growing and counting for every number in the list. But rather we take the loop ONLY by the amount of the longest digit count. 
+This algorithm's best, worst, and average would be `O(wn)` because `w` is only the count of the longest word. Even though we have a nested loop we're not just growing and counting for every number in the list. But rather we take the loop ONLY by the amount of the longest digit count.
 
 ## Notes
 
@@ -66,8 +66,4 @@ function getDigit(num, i){
     return Math.floor(num / Math.pow(10, i)) % 10;
 }
 ```
-
-
-
-
 

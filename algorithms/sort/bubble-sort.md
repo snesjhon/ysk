@@ -34,7 +34,7 @@ This is a very naive way of sorting because we're having to continously loop thr
 function bubbleSort(arr){
  // first we create a base condition
  if(arr.length < 1) return arr; 
- 
+
  // create the first loop at the end of the array that decrements
  // This "starts" at the end of the loop based on it's arr.length. 
  // it's arr.length instead of `arr.length` because we're not comparing equality
@@ -59,6 +59,4 @@ function bubbleSort(arr){
 ```
 {% endtab %}
 {% endtabs %}
-
-
 

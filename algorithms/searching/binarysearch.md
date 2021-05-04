@@ -37,7 +37,7 @@ function binarySearch(arr, target) {
 {% endtab %}
 {% endtabs %}
 
-### ALGORITHM STEPS - ITERATIVE
+## ALGORITHM STEPS - ITERATIVE
 
 * At every step, consider the array between low and high indices
 * Calculate the mid index.
@@ -54,15 +54,15 @@ Because we're provided a sorted array we can do a simple comparison where we go 
 
 Because middle NEEDS to be in between where low and high are, that we need them to be ever changing. Can't be static
 
-### Questions
+## Questions
 
-#### Why is it low + \(\(high - low\) / 2\)
+### Why is it low + \(\(high - low\) / 2\)
 
 "You may also wonder as to why mid is calculated using mid = lo + \(hi-lo\)/2 instead of the usual mid = \(lo+hi\)/2.This is to avoid another potential rounding bug: in the first case, we want the division to always round down, towards the lower bound. But division truncates, so when lo+hi would be negative, it would start rounding towards the higher bound. Coding the calculation this way ensures that the number divided is always positive and hence always rounds as we want it to. Although the bug doesn't surface when the search space consists only of positive integers or real numbers, I've decided to code it this way throughout the article for consistency."
 
 [https://stackoverflow.com/questions/4534342/binary-search-middle-value-calculation](https://stackoverflow.com/questions/4534342/binary-search-middle-value-calculation)
 
-#### Why the While loop
+### Why the While loop
 
 Because we need to iterate through whatever the size of the array is going to be. We return -1 if low &gt; high because that means we've gone through all of the halves of the array and we haven't found what we needed.
 
@@ -74,9 +74,7 @@ var arr =[0,1,2,4,5,6,7];
                   L M H
 ```
 
-
-
-#### Calculating Mid
+### Calculating Mid
 
 Because mid is an ever shrinking array, we need to make sure that mid to also shift depending on the size of the array. This is done by adding \`low\` to the difference between \`high - low\` divided by 2.
 

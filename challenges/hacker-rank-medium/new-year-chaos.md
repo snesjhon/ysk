@@ -1,8 +1,8 @@
 # New Year Chaos
 
-There are a number of people queued up, and each person wears a sticker indicating their _initial_ position in the queue. Initial positions increment by `1` from `1` at the front of the line to  at the back.
+There are a number of people queued up, and each person wears a sticker indicating their _initial_ position in the queue. Initial positions increment by `1` from `1` at the front of the line to at the back.
 
-Any person in the queue can bribe the person _directly in front_ of them to swap positions. If two people swap positions, they still wear the same sticker denoting their original places in line. One person can bribe _at most two others_. For example, if  `n = 8`and  **Person 5** bribes **Person 4**, the queue will look like this: `1, 2, 3, 5, 4, 6, 7, 8`
+Any person in the queue can bribe the person _directly in front_ of them to swap positions. If two people swap positions, they still wear the same sticker denoting their original places in line. One person can bribe _at most two others_. For example, if `n = 8`and **Person 5** bribes **Person 4**, the queue will look like this: `1, 2, 3, 5, 4, 6, 7, 8`
 
 Print an integer denoting the minimum number of bribes needed to get the queue into its final state. Print `Too chaotic` if the state is invalid, i.e. it requires a person to have bribed more than **2** people.
 
@@ -48,7 +48,7 @@ function minimumBribes(arr: number[]) {
 {% endtab %}
 {% endtabs %}
 
-### Notes
+## Notes
 
 * October 31, 2020
   * This one I had to look up again because it was kicking my ass. I first thought it was an iteration up to a certain maximum and we had to look up and down. But I realized that instead it'd be better if we just look down. 
@@ -74,6 +74,4 @@ function minimumBribes(arr: number[]) {
     }
     ```
   * This is okay, but the issues surrounding this was that I was swapping. And although that worked for the first test case it wasn't the solution. I shouldn't be swapping but rather just looking ahead and checking if correct.
-
-
 

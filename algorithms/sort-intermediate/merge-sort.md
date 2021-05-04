@@ -46,13 +46,13 @@ function merge(arrL, arrR){
 
 ### Explanation
 
-This is the start of our algorithm and the base case for the recursion. This assures us as we divide the array recursively we always return once we have a single item or less. So during our `slice` process, if we end up with 1 or NO items in the array then we return that and continue with merging. 
+This is the start of our algorithm and the base case for the recursion. This assures us as we divide the array recursively we always return once we have a single item or less. So during our `slice` process, if we end up with 1 or NO items in the array then we return that and continue with merging.
 
 ```text
 if(arr.length <= 1) return arr;
 ```
 
-In order to divide our array recursively we have to divide the array until we reach the base case. We do this by using `slice` by the mid point. We use `Math.floor` to give us a rounded down value. \(in case when we divide our array length we end up with a non indexable number\). 
+In order to divide our array recursively we have to divide the array until we reach the base case. We do this by using `slice` by the mid point. We use `Math.floor` to give us a rounded down value. \(in case when we divide our array length we end up with a non indexable number\).
 
 ```javascript
 const mid = Math.floor(arr.length / 2);
