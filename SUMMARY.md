@@ -48,6 +48,7 @@
 
 ## Ruby
 
+* [Symbols](ruby/symbols.md)
 * [Intro](ruby/intro.md)
 
 ## Algorithms
