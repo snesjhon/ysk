@@ -23,6 +23,12 @@ Honestly, I can't imagine coding any other way. It's a revolution in the way I t
    4. But that was my great epiphany, I'm already memorizing and using all of these hot keys to open files, open the file tree, tab through each opened file, run commands, and even format on save. Why wouldn't/couldn't I use some hot keys to help me code a bit faster. 
 2. I was already using Hot Keys to work through my code. Just not efficiently.
    1. Ask yourself this:  How often are you using `Command + Shift + Arrow Right` to select the whole row and then delete the line. What if you could just press `dd` to delete everything.
+3. I initially tried VIM by itself.
+   1. And honestly, it was cool. But I missed coding in VSCode. I got 80% of the same experience as VSCode using NeoVIM and all of the plugins and learning about coc, and so forth. But at the end of the day -- for the life of me -- I could not get a 1:1 theme of Solarized Light/Dark. And yes, I've tried searching for the right configurations a ton of times. 
+   2. I also missed using `Command + *` for a lot of things, like tabbing through opened editors. Yes, there are ways of doing it in VIM.
+4. VSCodeVim is not VIM.
+   1. That is to say, that as much as the vscodevim plugin is trying to emulate VIM it's not necessarily going to emulate everything that's great about VIM. And that's great!
+   2. I personally find a lot of usefulness in using VIM by itself. In fact it's probably good to know how to escape VIM \(insert XKCD here\). 
 
 
 
