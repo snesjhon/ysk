@@ -5,6 +5,7 @@
 ## Personal
 
 * [Blogs](personal/blogs/README.md)
+  * [I'll never complain about web tooling again.](personal/blogs/ill-never-complain-about-web-tooling-again..md)
   * [vscodevim](personal/blogs/vscodevim.md)
 
 ## JavaScript
