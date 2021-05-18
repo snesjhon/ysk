@@ -81,6 +81,7 @@
 
 ## Data Structures
 
+* [Breadth First Search](data-structures/breadth-first-search.md)
 * [Linked Lists](data-structures/linked-lists/README.md)
   * [Singly Linked Lists](data-structures/linked-lists/singly-linked-lists.md)
 * [FAQs](data-structures/faqs.md)
