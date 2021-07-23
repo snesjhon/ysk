@@ -49,6 +49,7 @@
 
 ## Ruby
 
+* [Debugging](ruby/debugging.md)
 * [Symbols](ruby/symbols.md)
 * [Intro](ruby/intro.md)
 
